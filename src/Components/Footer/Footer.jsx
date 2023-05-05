@@ -49,7 +49,7 @@ const Footer= () => {
                     </a>
                 </div>
                 <div data-aos="fade-up" className="footerParagraph">
-                    Traveling is the best medicine to heal the mind, body and soul. Those who hit the road often can vouch for the numerous benefits of traveling and exploring new places. It makes you a more confident person, lets you discover new hideaways, culture, and people, and also positively affects health.
+                    Traveling is the best medicine to heal the mind, body and soul. Those who hit the road often can vouch for the numerous benefits of traveling and exploring new places. It makes you a more confident person, lets you discover new hideaways, culture, and people, and also positively affects health. Traveling will improve your mental health· Traveling improves your communications skills and helps you to disjoin the busy life. So let's go together to travel on the world with "DaaK PeoN".
                 </div> 
                 <div data-aos="fade-up" className="footerSocials flex">
                     <FaLinkedin className="icon"/>
