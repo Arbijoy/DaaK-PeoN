@@ -49,8 +49,7 @@ const Footer= () => {
                     </a>
                 </div>
                 <div data-aos="fade-up" className="footerParagraph">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel, nemo consectetur minus voluptates optio beatae reprehenderit, quo, quam explicabo libero molestiae totam officiis neque eaque! Qui excepturi aut laborum a!
-                    Harum possimus id mollitia impedit unde exercitationem, ipsam esse corporis natus laboriosam alias voluptas, pariatur distinctio, laudantium officia ea tempore error? Vitae dignissimos ipsa quis mollitia, asperiores veritatis minus expedita?
+                    Traveling is the best medicine to heal the mind, body and soul. Those who hit the road often can vouch for the numerous benefits of traveling and exploring new places. It makes you a more confident person, lets you discover new hideaways, culture, and people, and also positively affects health.
                 </div> 
                 <div data-aos="fade-up" className="footerSocials flex">
                     <FaLinkedin className="icon"/>
